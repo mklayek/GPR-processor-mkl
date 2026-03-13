@@ -1,5 +1,7 @@
 # GPR-processor-mkl
 
+![GPR 3D Chair Display](../Readme-image.png)
+
 **Author:** Mrinal Layek ([layek.mk@gmail.com](mailto:layek.mk@gmail.com))
 
 ---
